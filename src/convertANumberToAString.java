@@ -1,4 +1,4 @@
-public class ConvertANumberToAString {
+public class convertANumberToAString {
 
     public static void main(String[] args) {
         System.out.println(numberToString(1568));
